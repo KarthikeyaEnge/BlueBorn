@@ -12,12 +12,16 @@
     "type": "git",
     "url": "https://github.com/KarthikeyaEnge/BlueBorn"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue theme",
+    "minimalistic theme",
+    "minimalistic dark theme",
+    "minimalistic blue theme"
+  ],
   "categories": [
-    "Themes",
-    "blue",
-    "dark",
-    "colorblind",
-    "minimalistic"
+    "Themes"
   ],
   "contributes": {
     "themes": [
