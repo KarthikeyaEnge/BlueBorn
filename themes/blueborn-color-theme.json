@@ -2,32 +2,33 @@
   "name": "blueborn",
   "colors": {
     // Editor colors
-    "editor.background": "#010f16",
+    "editor.background": "#00080b",
     "editor.foreground": "#eeffff",
-    "welcomePage.background": "#010f16",
+    "welcomePage.background": "#00080b",
 
     // Activity bar colors
     "activityBarBadge.background": "#f95d15",
     "activityBar.activeBackground": "#011b28",
-    "activityBar.background": "#010f16",
+    "activityBar.background": "#00080b",
     "activityBar.foreground": "#f95d15",
-    "activityBar.inactiveForeground": "#010f16",
+    "activityBar.inactiveForeground": "#00080b",
 
     // Editor group and sidebar colors
     "editorGroup.border": "#2e393c",
     "editorGroupHeader.noTabsBackground": "#000",
     "editorGroupHeader.tabsBackground": "#000",
     "editorGroup.emptyBackground": "#000",
-    "sideBarTitle.foreground": "#010f16",
-    "sideBar.background": "#010f16",
+    "sideBarTitle.foreground": "#00080b",
+    "sideBar.background": "#00080b",
     "terminal.border": "#2e393c",
 
     // Tab colors
-    "tab.inactiveBackground": "#010f167c",
+    "tab.inactiveBackground": "#00080b7c",
     "tab.border": "#2e393c",
 
     // Status bar colors
-    "statusBar.background": "#010f16",
+    "statusBar.background": "#00080b",
+    "statusBar.border": "#00080b",
 
     // Other colors
     "sideBar.border": "#2e393c",
@@ -44,8 +45,7 @@
     "tab.activeBorderTop": "#f95d15",
     "dropdown.listBackground": "#2e393c",
     "icon.foreground": "#07c9ff",
-    "quickInput.background": "#000000",
-    "pickerGroup.border": "#2e393c"
+    "quickInput.background": "#000000"
   },
   "tokenColors": [
     {
