@@ -3,6 +3,7 @@
   "displayName": "BlueBorn",
   "description": "A minimalistic Blue Dark Theme",
   "version": "1.0.0",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.84.0"
   },
