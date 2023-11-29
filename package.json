@@ -7,6 +7,10 @@
     "vscode": "^1.84.0"
   },
   "publisher": "KarthikeyaEnge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KarthikeyaEnge/BlueBorn"
+  },
   "categories": [
     "Themes",
     "Dark Theme",
