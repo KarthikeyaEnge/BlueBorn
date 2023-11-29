@@ -1,0 +1,28 @@
+{
+  "name": "blueborn",
+  "displayName": "BlueBorn",
+  "description": "A minimalistic Blue Dark Theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "publisher": "KarthikeyaEnge",
+  "categories": [
+    "Themes",
+    "Dark Theme",
+    "Blue Theme",
+    "DarkBlue Theme",
+    "Minimalistic Theme",
+    "Minimalistic Dark Theme",
+    "Minimalistic Blue Theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "blueborn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blueborn-color-theme.json"
+      }
+    ]
+  }
+}
