@@ -14,12 +14,10 @@
   },
   "categories": [
     "Themes",
-    "Dark Theme",
-    "Blue Theme",
-    "DarkBlue Theme",
-    "Minimalistic Theme",
-    "Minimalistic Dark Theme",
-    "Minimalistic Blue Theme"
+    "blue",
+    "dark",
+    "colorblind",
+    "minimalistic"
   ],
   "contributes": {
     "themes": [
