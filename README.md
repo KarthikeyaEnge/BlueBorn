@@ -32,7 +32,7 @@ Your feedback is essential to improve the Blueborn theme! Feel free to [open an 
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this theme, please follow the [contribution guidelines](link-to-contribution-guidelines).
+Contributions are welcome! If you'd like to contribute to this theme, please follow the contribution guidelines.
 
 ## License
 
