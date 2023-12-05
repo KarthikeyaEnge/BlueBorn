@@ -11,7 +11,7 @@
     "activityBar.activeBackground": "#011b28",
     "activityBar.background": "#00080b",
     "activityBar.foreground": "#f95d15",
-    "activityBar.inactiveForeground": "#00080b",
+    "activityBar.inactiveForeground": "#2e393c",
 
     // Editor group and sidebar colors
     "editorGroup.border": "#2e393c",
